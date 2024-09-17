@@ -1,4 +1,4 @@
-```markdown
+
 # Wheat Head Detection Using Faster R-CNN
 
 This repository contains a solution for detecting wheat heads in images using Faster R-CNN, a popular object detection model. The project involves training a Faster R-CNN model to accurately identify and localize wheat heads in images.
@@ -87,7 +87,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 - Thanks to the PyTorch and torchvision communities for providing powerful tools for object detection.
 - Special thanks to any contributors and data sources that made this project possible.
-```
+
 
 In this README:
 - Replace `yourusername` with your actual GitHub username.

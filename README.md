@@ -1,4 +1,3 @@
-Certainly! Here’s the updated README file with the requested changes:
 
 # Wheat Head Detection Using Faster R-CNN
 
@@ -20,17 +19,16 @@ Ensure you have the following installed:
 - Python 3.x
 - PyTorch
 - torchvision
-- Other dependencies listed in `requirements.txt`
 
 ### Installation
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/wheat-head-detection-faster-rcnn.git
+   git clone https://github.com/MB-13/Wheat_head_detection.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd wheat-head-detection-faster-rcnn
+   cd wheat_head_detection
    ```
 3. Install the required packages:
    ```bash

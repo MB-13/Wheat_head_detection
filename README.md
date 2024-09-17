@@ -44,16 +44,16 @@ Below are example results showing the wheat head detection performance of the mo
 ### Example Results
 
 1. **Train-Val Loss Graph**
-   ![loss graph](imgs/lossgraph.jpg)
+   ![loss graph](imgs/lossgraph.png)
 
 2. **Result Image 1**
-   ![Result Image 1](imgs/img1.jpg)
+   ![Result Image 1](imgs/img1.png)
 
 3. **Result Image 2**
-   ![Result Image 2](imgs/img2.jpg)
+   ![Result Image 2](imgs/img2.png)
 
 4. **Result Image 3**
-   ![Result Image 3](imgs/img3.jpg)
+   ![Result Image 3](imgs/img3.png)
 
 
 
